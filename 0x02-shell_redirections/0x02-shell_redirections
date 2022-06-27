@@ -1,1 +1,2 @@
-Shell redirections and filter project
+#!/bin/bash
+echo-e "Hello, World"
